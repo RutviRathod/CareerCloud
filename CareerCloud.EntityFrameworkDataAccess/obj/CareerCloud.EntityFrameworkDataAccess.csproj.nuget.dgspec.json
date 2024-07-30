@@ -1,0 +1,416 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Humber Lectures\\Distributed Application Development\\Assignment5\\CareerCloud5.1\\CareerCloud\\CareerCloud.EntityFrameworkDataAccess\\CareerCloud.EntityFrameworkDataAccess.csproj": {}
+  },
+  "projects": {
+    "D:\\Humber Lectures\\Distributed Application Development\\Assignment5\\CareerCloud5.1\\CareerCloud\\CareerCloud.ADODataAccessLayer\\CareerCloud.ADODataAccessLayer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Humber Lectures\\Distributed Application Development\\Assignment5\\CareerCloud5.1\\CareerCloud\\CareerCloud.ADODataAccessLayer\\CareerCloud.ADODataAccessLayer.csproj",
+        "projectName": "CareerCloud.ADODataAccessLayer",
+        "projectPath": "D:\\Humber Lectures\\Distributed Application Development\\Assignment5\\CareerCloud5.1\\CareerCloud\\CareerCloud.ADODataAccessLayer\\CareerCloud.ADODataAccessLayer.csproj",
+        "packagesPath": "C:\\Users\\rutvi\\.nuget\\packages\\",
+        "outputPath": "D:\\Humber Lectures\\Distributed Application Development\\Assignment5\\CareerCloud5.1\\CareerCloud\\CareerCloud.ADODataAccessLayer\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\rutvi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\Humber Lectures\\Distributed Application Development\\Assignment5\\CareerCloud5.1\\CareerCloud\\CareerCloud.DataAccessLayer\\CareerCloud.DataAccessLayer.csproj": {
+                "projectPath": "D:\\Humber Lectures\\Distributed Application Development\\Assignment5\\CareerCloud5.1\\CareerCloud\\CareerCloud.DataAccessLayer\\CareerCloud.DataAccessLayer.csproj"
+              },
+              "D:\\Humber Lectures\\Distributed Application Development\\Assignment5\\CareerCloud5.1\\CareerCloud\\CareerCloud.Pocos\\CareerCloud.Pocos.csproj": {
+                "projectPath": "D:\\Humber Lectures\\Distributed Application Development\\Assignment5\\CareerCloud5.1\\CareerCloud\\CareerCloud.Pocos\\CareerCloud.Pocos.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.Data.SqlClient": {
+              "target": "Package",
+              "version": "[5.1.5, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.26, 6.0.26]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.26, 6.0.26]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[6.0.26, 6.0.26]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Humber Lectures\\Distributed Application Development\\Assignment5\\CareerCloud5.1\\CareerCloud\\CareerCloud.BusinessLogicLayer\\CareerCloud.BusinessLogicLayer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Humber Lectures\\Distributed Application Development\\Assignment5\\CareerCloud5.1\\CareerCloud\\CareerCloud.BusinessLogicLayer\\CareerCloud.BusinessLogicLayer.csproj",
+        "projectName": "CareerCloud.BusinessLogicLayer",
+        "projectPath": "D:\\Humber Lectures\\Distributed Application Development\\Assignment5\\CareerCloud5.1\\CareerCloud\\CareerCloud.BusinessLogicLayer\\CareerCloud.BusinessLogicLayer.csproj",
+        "packagesPath": "C:\\Users\\rutvi\\.nuget\\packages\\",
+        "outputPath": "D:\\Humber Lectures\\Distributed Application Development\\Assignment5\\CareerCloud5.1\\CareerCloud\\CareerCloud.BusinessLogicLayer\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\rutvi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\Humber Lectures\\Distributed Application Development\\Assignment5\\CareerCloud5.1\\CareerCloud\\CareerCloud.DataAccessLayer\\CareerCloud.DataAccessLayer.csproj": {
+                "projectPath": "D:\\Humber Lectures\\Distributed Application Development\\Assignment5\\CareerCloud5.1\\CareerCloud\\CareerCloud.DataAccessLayer\\CareerCloud.DataAccessLayer.csproj"
+              },
+              "D:\\Humber Lectures\\Distributed Application Development\\Assignment5\\CareerCloud5.1\\CareerCloud\\CareerCloud.Pocos\\CareerCloud.Pocos.csproj": {
+                "projectPath": "D:\\Humber Lectures\\Distributed Application Development\\Assignment5\\CareerCloud5.1\\CareerCloud\\CareerCloud.Pocos\\CareerCloud.Pocos.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.26, 6.0.26]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.26, 6.0.26]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[6.0.26, 6.0.26]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Humber Lectures\\Distributed Application Development\\Assignment5\\CareerCloud5.1\\CareerCloud\\CareerCloud.DataAccessLayer\\CareerCloud.DataAccessLayer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Humber Lectures\\Distributed Application Development\\Assignment5\\CareerCloud5.1\\CareerCloud\\CareerCloud.DataAccessLayer\\CareerCloud.DataAccessLayer.csproj",
+        "projectName": "CareerCloud.DataAccessLayer",
+        "projectPath": "D:\\Humber Lectures\\Distributed Application Development\\Assignment5\\CareerCloud5.1\\CareerCloud\\CareerCloud.DataAccessLayer\\CareerCloud.DataAccessLayer.csproj",
+        "packagesPath": "C:\\Users\\rutvi\\.nuget\\packages\\",
+        "outputPath": "D:\\Humber Lectures\\Distributed Application Development\\Assignment5\\CareerCloud5.1\\CareerCloud\\CareerCloud.DataAccessLayer\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\rutvi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\Humber Lectures\\Distributed Application Development\\Assignment5\\CareerCloud5.1\\CareerCloud\\CareerCloud.Pocos\\CareerCloud.Pocos.csproj": {
+                "projectPath": "D:\\Humber Lectures\\Distributed Application Development\\Assignment5\\CareerCloud5.1\\CareerCloud\\CareerCloud.Pocos\\CareerCloud.Pocos.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.Data.SqlClient": {
+              "target": "Package",
+              "version": "[5.1.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.26, 6.0.26]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.26, 6.0.26]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[6.0.26, 6.0.26]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Humber Lectures\\Distributed Application Development\\Assignment5\\CareerCloud5.1\\CareerCloud\\CareerCloud.EntityFrameworkDataAccess\\CareerCloud.EntityFrameworkDataAccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Humber Lectures\\Distributed Application Development\\Assignment5\\CareerCloud5.1\\CareerCloud\\CareerCloud.EntityFrameworkDataAccess\\CareerCloud.EntityFrameworkDataAccess.csproj",
+        "projectName": "CareerCloud.EntityFrameworkDataAccess",
+        "projectPath": "D:\\Humber Lectures\\Distributed Application Development\\Assignment5\\CareerCloud5.1\\CareerCloud\\CareerCloud.EntityFrameworkDataAccess\\CareerCloud.EntityFrameworkDataAccess.csproj",
+        "packagesPath": "C:\\Users\\rutvi\\.nuget\\packages\\",
+        "outputPath": "D:\\Humber Lectures\\Distributed Application Development\\Assignment5\\CareerCloud5.1\\CareerCloud\\CareerCloud.EntityFrameworkDataAccess\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\rutvi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\Humber Lectures\\Distributed Application Development\\Assignment5\\CareerCloud5.1\\CareerCloud\\CareerCloud.ADODataAccessLayer\\CareerCloud.ADODataAccessLayer.csproj": {
+                "projectPath": "D:\\Humber Lectures\\Distributed Application Development\\Assignment5\\CareerCloud5.1\\CareerCloud\\CareerCloud.ADODataAccessLayer\\CareerCloud.ADODataAccessLayer.csproj"
+              },
+              "D:\\Humber Lectures\\Distributed Application Development\\Assignment5\\CareerCloud5.1\\CareerCloud\\CareerCloud.BusinessLogicLayer\\CareerCloud.BusinessLogicLayer.csproj": {
+                "projectPath": "D:\\Humber Lectures\\Distributed Application Development\\Assignment5\\CareerCloud5.1\\CareerCloud\\CareerCloud.BusinessLogicLayer\\CareerCloud.BusinessLogicLayer.csproj"
+              },
+              "D:\\Humber Lectures\\Distributed Application Development\\Assignment5\\CareerCloud5.1\\CareerCloud\\CareerCloud.DataAccessLayer\\CareerCloud.DataAccessLayer.csproj": {
+                "projectPath": "D:\\Humber Lectures\\Distributed Application Development\\Assignment5\\CareerCloud5.1\\CareerCloud\\CareerCloud.DataAccessLayer\\CareerCloud.DataAccessLayer.csproj"
+              },
+              "D:\\Humber Lectures\\Distributed Application Development\\Assignment5\\CareerCloud5.1\\CareerCloud\\CareerCloud.Pocos\\CareerCloud.Pocos.csproj": {
+                "projectPath": "D:\\Humber Lectures\\Distributed Application Development\\Assignment5\\CareerCloud5.1\\CareerCloud\\CareerCloud.Pocos\\CareerCloud.Pocos.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.29, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.26, 6.0.26]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.26, 6.0.26]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[6.0.26, 6.0.26]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Humber Lectures\\Distributed Application Development\\Assignment5\\CareerCloud5.1\\CareerCloud\\CareerCloud.Pocos\\CareerCloud.Pocos.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Humber Lectures\\Distributed Application Development\\Assignment5\\CareerCloud5.1\\CareerCloud\\CareerCloud.Pocos\\CareerCloud.Pocos.csproj",
+        "projectName": "CareerCloud.Pocos",
+        "projectPath": "D:\\Humber Lectures\\Distributed Application Development\\Assignment5\\CareerCloud5.1\\CareerCloud\\CareerCloud.Pocos\\CareerCloud.Pocos.csproj",
+        "packagesPath": "C:\\Users\\rutvi\\.nuget\\packages\\",
+        "outputPath": "D:\\Humber Lectures\\Distributed Application Development\\Assignment5\\CareerCloud5.1\\CareerCloud\\CareerCloud.Pocos\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\rutvi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.Data.SqlClient": {
+              "target": "Package",
+              "version": "[5.1.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.26, 6.0.26]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.26, 6.0.26]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[6.0.26, 6.0.26]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

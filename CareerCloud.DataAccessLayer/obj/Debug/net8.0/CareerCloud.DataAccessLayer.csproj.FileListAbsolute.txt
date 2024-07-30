@@ -1,0 +1,15 @@
+C:\Users\rutvi\Downloads\NET.22-3-Rutvi-Rathod-N01678041\CareerCloud\CareerCloud.DataAccessLayer\bin\Debug\net8.0\CareerCloud.DataAccessLayer.deps.json
+C:\Users\rutvi\Downloads\NET.22-3-Rutvi-Rathod-N01678041\CareerCloud\CareerCloud.DataAccessLayer\bin\Debug\net8.0\CareerCloud.DataAccessLayer.dll
+C:\Users\rutvi\Downloads\NET.22-3-Rutvi-Rathod-N01678041\CareerCloud\CareerCloud.DataAccessLayer\bin\Debug\net8.0\CareerCloud.DataAccessLayer.pdb
+C:\Users\rutvi\Downloads\NET.22-3-Rutvi-Rathod-N01678041\CareerCloud\CareerCloud.DataAccessLayer\obj\Debug\net8.0\CareerCloud.DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\rutvi\Downloads\NET.22-3-Rutvi-Rathod-N01678041\CareerCloud\CareerCloud.DataAccessLayer\obj\Debug\net8.0\CareerCloud.DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rutvi\Downloads\NET.22-3-Rutvi-Rathod-N01678041\CareerCloud\CareerCloud.DataAccessLayer\obj\Debug\net8.0\CareerCloud.DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\rutvi\Downloads\NET.22-3-Rutvi-Rathod-N01678041\CareerCloud\CareerCloud.DataAccessLayer\obj\Debug\net8.0\CareerCloud.DataAccessLayer.AssemblyInfo.cs
+C:\Users\rutvi\Downloads\NET.22-3-Rutvi-Rathod-N01678041\CareerCloud\CareerCloud.DataAccessLayer\obj\Debug\net8.0\CareerCloud.DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\rutvi\Downloads\NET.22-3-Rutvi-Rathod-N01678041\CareerCloud\CareerCloud.DataAccessLayer\obj\Debug\net8.0\CareerCloud.DataAccessLayer.dll
+C:\Users\rutvi\Downloads\NET.22-3-Rutvi-Rathod-N01678041\CareerCloud\CareerCloud.DataAccessLayer\obj\Debug\net8.0\refint\CareerCloud.DataAccessLayer.dll
+C:\Users\rutvi\Downloads\NET.22-3-Rutvi-Rathod-N01678041\CareerCloud\CareerCloud.DataAccessLayer\obj\Debug\net8.0\CareerCloud.DataAccessLayer.pdb
+C:\Users\rutvi\Downloads\NET.22-3-Rutvi-Rathod-N01678041\CareerCloud\CareerCloud.DataAccessLayer\obj\Debug\net8.0\ref\CareerCloud.DataAccessLayer.dll
+C:\Users\rutvi\Downloads\NET.22-3-Rutvi-Rathod-N01678041\CareerCloud\CareerCloud.DataAccessLayer\bin\Debug\net8.0\CareerCloud.Pocos.dll
+C:\Users\rutvi\Downloads\NET.22-3-Rutvi-Rathod-N01678041\CareerCloud\CareerCloud.DataAccessLayer\bin\Debug\net8.0\CareerCloud.Pocos.pdb
+C:\Users\rutvi\Downloads\NET.22-3-Rutvi-Rathod-N01678041\CareerCloud\CareerCloud.DataAccessLayer\obj\Debug\net8.0\CareerCloud.DataAccessLayer.csproj.CopyComplete

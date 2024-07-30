@@ -1,0 +1,149 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Athul Babu\\Downloads\\CareerCloud5\\CareerCloud\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BF618CB1-6DE2-4643-87B0-BA892DAF5F42}|CareerCloud.BusinessLogicLayer\\CareerCloud.BusinessLogicLayer.csproj|c:\\users\\athul babu\\downloads\\careercloud5\\careercloud\\careercloud.businesslogiclayer\\applicanteducationlogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF618CB1-6DE2-4643-87B0-BA892DAF5F42}|CareerCloud.BusinessLogicLayer\\CareerCloud.BusinessLogicLayer.csproj|solutionrelative:careercloud.businesslogiclayer\\applicanteducationlogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59D9E414-F5FC-4CF8-A076-6DD27ADB3D27}|CareerCloud.WebAPI\\CareerCloud.WebAPI.csproj|c:\\users\\athul babu\\downloads\\careercloud5\\careercloud\\careercloud.webapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{59D9E414-F5FC-4CF8-A076-6DD27ADB3D27}|CareerCloud.WebAPI\\CareerCloud.WebAPI.csproj|solutionrelative:careercloud.webapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59D9E414-F5FC-4CF8-A076-6DD27ADB3D27}|CareerCloud.WebAPI\\CareerCloud.WebAPI.csproj|c:\\users\\athul babu\\downloads\\careercloud5\\careercloud\\careercloud.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{59D9E414-F5FC-4CF8-A076-6DD27ADB3D27}|CareerCloud.WebAPI\\CareerCloud.WebAPI.csproj|solutionrelative:careercloud.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5E15034-F3DF-49CA-A53E-3704B8F1E8FA}|CareerCloud.EntityFrameworkDataAccess\\CareerCloud.EntityFrameworkDataAccess.csproj|c:\\users\\athul babu\\downloads\\careercloud5\\careercloud\\careercloud.entityframeworkdataaccess\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F5E15034-F3DF-49CA-A53E-3704B8F1E8FA}|CareerCloud.EntityFrameworkDataAccess\\CareerCloud.EntityFrameworkDataAccess.csproj|solutionrelative:careercloud.entityframeworkdataaccess\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FB957BB-330A-49A7-AC43-2251111AC702}|CareerCloudCore.UnitTests.Assignment5\\CareerCloudCore.UnitTests.Assignment5.csproj|c:\\users\\athul babu\\downloads\\careercloud5\\careercloud\\careercloudcore.unittests.assignment5\\assignment5marking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FB957BB-330A-49A7-AC43-2251111AC702}|CareerCloudCore.UnitTests.Assignment5\\CareerCloudCore.UnitTests.Assignment5.csproj|solutionrelative:careercloudcore.unittests.assignment5\\assignment5marking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5E15034-F3DF-49CA-A53E-3704B8F1E8FA}|CareerCloud.EntityFrameworkDataAccess\\CareerCloud.EntityFrameworkDataAccess.csproj|c:\\users\\athul babu\\downloads\\careercloud5\\careercloud\\careercloud.entityframeworkdataaccess\\careercloudcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5E15034-F3DF-49CA-A53E-3704B8F1E8FA}|CareerCloud.EntityFrameworkDataAccess\\CareerCloud.EntityFrameworkDataAccess.csproj|solutionrelative:careercloud.entityframeworkdataaccess\\careercloudcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 236,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Athul Babu\\Downloads\\CareerCloud5\\CareerCloud\\CareerCloud.WebAPI\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "CareerCloud.WebAPI\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Athul Babu\\Downloads\\CareerCloud5\\CareerCloud\\CareerCloud.WebAPI\\appsettings.Development.json",
+              "RelativeToolTip": "CareerCloud.WebAPI\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-19T21:52:01.913Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Athul Babu\\Downloads\\CareerCloud5\\CareerCloud\\CareerCloud.EntityFrameworkDataAccess\\appsettings.json",
+              "RelativeDocumentMoniker": "CareerCloud.EntityFrameworkDataAccess\\appsettings.json",
+              "ToolTip": "C:\\Users\\Athul Babu\\Downloads\\CareerCloud5\\CareerCloud\\CareerCloud.EntityFrameworkDataAccess\\appsettings.json",
+              "RelativeToolTip": "CareerCloud.EntityFrameworkDataAccess\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-19T21:50:48.497Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Athul Babu\\Downloads\\CareerCloud5\\CareerCloud\\CareerCloud.WebAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "CareerCloud.WebAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\Athul Babu\\Downloads\\CareerCloud5\\CareerCloud\\CareerCloud.WebAPI\\appsettings.json",
+              "RelativeToolTip": "CareerCloud.WebAPI\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-19T21:50:42.147Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApplicantEducationLogic.cs",
+              "DocumentMoniker": "C:\\Users\\Athul Babu\\Downloads\\CareerCloud5\\CareerCloud\\CareerCloud.BusinessLogicLayer\\ApplicantEducationLogic.cs",
+              "RelativeDocumentMoniker": "CareerCloud.BusinessLogicLayer\\ApplicantEducationLogic.cs",
+              "ToolTip": "C:\\Users\\Athul Babu\\Downloads\\CareerCloud5\\CareerCloud\\CareerCloud.BusinessLogicLayer\\ApplicantEducationLogic.cs",
+              "RelativeToolTip": "CareerCloud.BusinessLogicLayer\\ApplicantEducationLogic.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T21:43:38.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Assignment5Marking.cs",
+              "DocumentMoniker": "C:\\Users\\Athul Babu\\Downloads\\CareerCloud5\\CareerCloud\\CareerCloudCore.UnitTests.Assignment5\\Assignment5Marking.cs",
+              "RelativeDocumentMoniker": "CareerCloudCore.UnitTests.Assignment5\\Assignment5Marking.cs",
+              "ToolTip": "C:\\Users\\Athul Babu\\Downloads\\CareerCloud5\\CareerCloud\\CareerCloudCore.UnitTests.Assignment5\\Assignment5Marking.cs",
+              "RelativeToolTip": "CareerCloudCore.UnitTests.Assignment5\\Assignment5Marking.cs",
+              "ViewState": "AQIAAGQAAAAAAAAAAAAYwHkAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T21:42:28.186Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CareerCloudContext.cs",
+              "DocumentMoniker": "C:\\Users\\Athul Babu\\Downloads\\CareerCloud5\\CareerCloud\\CareerCloud.EntityFrameworkDataAccess\\CareerCloudContext.cs",
+              "RelativeDocumentMoniker": "CareerCloud.EntityFrameworkDataAccess\\CareerCloudContext.cs",
+              "ToolTip": "C:\\Users\\Athul Babu\\Downloads\\CareerCloud5\\CareerCloud\\CareerCloud.EntityFrameworkDataAccess\\CareerCloudContext.cs",
+              "RelativeToolTip": "CareerCloud.EntityFrameworkDataAccess\\CareerCloudContext.cs",
+              "ViewState": "AQIAAPkAAAAACAAAAEAlwBYBAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T18:39:32.508Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

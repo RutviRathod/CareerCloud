@@ -1,0 +1,17 @@
+C:\Users\rutvi\Downloads\NET.22-3-Rutvi-Rathod-N01678041\CareerCloud\CareerCloud.BusinessLogicLayer\bin\Debug\net8.0\CareerCloud.BusinessLogicLayer.deps.json
+C:\Users\rutvi\Downloads\NET.22-3-Rutvi-Rathod-N01678041\CareerCloud\CareerCloud.BusinessLogicLayer\bin\Debug\net8.0\CareerCloud.BusinessLogicLayer.dll
+C:\Users\rutvi\Downloads\NET.22-3-Rutvi-Rathod-N01678041\CareerCloud\CareerCloud.BusinessLogicLayer\bin\Debug\net8.0\CareerCloud.BusinessLogicLayer.pdb
+C:\Users\rutvi\Downloads\NET.22-3-Rutvi-Rathod-N01678041\CareerCloud\CareerCloud.BusinessLogicLayer\bin\Debug\net8.0\CareerCloud.DataAccessLayer.dll
+C:\Users\rutvi\Downloads\NET.22-3-Rutvi-Rathod-N01678041\CareerCloud\CareerCloud.BusinessLogicLayer\bin\Debug\net8.0\CareerCloud.Pocos.dll
+C:\Users\rutvi\Downloads\NET.22-3-Rutvi-Rathod-N01678041\CareerCloud\CareerCloud.BusinessLogicLayer\bin\Debug\net8.0\CareerCloud.DataAccessLayer.pdb
+C:\Users\rutvi\Downloads\NET.22-3-Rutvi-Rathod-N01678041\CareerCloud\CareerCloud.BusinessLogicLayer\bin\Debug\net8.0\CareerCloud.Pocos.pdb
+C:\Users\rutvi\Downloads\NET.22-3-Rutvi-Rathod-N01678041\CareerCloud\CareerCloud.BusinessLogicLayer\obj\Debug\net8.0\CareerCloud.BusinessLogicLayer.csproj.AssemblyReference.cache
+C:\Users\rutvi\Downloads\NET.22-3-Rutvi-Rathod-N01678041\CareerCloud\CareerCloud.BusinessLogicLayer\obj\Debug\net8.0\CareerCloud.BusinessLogicLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rutvi\Downloads\NET.22-3-Rutvi-Rathod-N01678041\CareerCloud\CareerCloud.BusinessLogicLayer\obj\Debug\net8.0\CareerCloud.BusinessLogicLayer.AssemblyInfoInputs.cache
+C:\Users\rutvi\Downloads\NET.22-3-Rutvi-Rathod-N01678041\CareerCloud\CareerCloud.BusinessLogicLayer\obj\Debug\net8.0\CareerCloud.BusinessLogicLayer.AssemblyInfo.cs
+C:\Users\rutvi\Downloads\NET.22-3-Rutvi-Rathod-N01678041\CareerCloud\CareerCloud.BusinessLogicLayer\obj\Debug\net8.0\CareerCloud.BusinessLogicLayer.csproj.CoreCompileInputs.cache
+C:\Users\rutvi\Downloads\NET.22-3-Rutvi-Rathod-N01678041\CareerCloud\CareerCloud.BusinessLogicLayer\obj\Debug\net8.0\CareerCloud.BusinessLogicLayer.csproj.CopyComplete
+C:\Users\rutvi\Downloads\NET.22-3-Rutvi-Rathod-N01678041\CareerCloud\CareerCloud.BusinessLogicLayer\obj\Debug\net8.0\CareerCloud.BusinessLogicLayer.dll
+C:\Users\rutvi\Downloads\NET.22-3-Rutvi-Rathod-N01678041\CareerCloud\CareerCloud.BusinessLogicLayer\obj\Debug\net8.0\refint\CareerCloud.BusinessLogicLayer.dll
+C:\Users\rutvi\Downloads\NET.22-3-Rutvi-Rathod-N01678041\CareerCloud\CareerCloud.BusinessLogicLayer\obj\Debug\net8.0\CareerCloud.BusinessLogicLayer.pdb
+C:\Users\rutvi\Downloads\NET.22-3-Rutvi-Rathod-N01678041\CareerCloud\CareerCloud.BusinessLogicLayer\obj\Debug\net8.0\ref\CareerCloud.BusinessLogicLayer.dll

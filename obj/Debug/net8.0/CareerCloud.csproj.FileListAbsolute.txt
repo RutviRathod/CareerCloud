@@ -1,0 +1,4 @@
+D:\C# Assignments\Rutvi Work\CareerCloud\obj\Debug\net8.0\CareerCloud.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Assignments\Rutvi Work\CareerCloud\obj\Debug\net8.0\CareerCloud.AssemblyInfoInputs.cache
+D:\C# Assignments\Rutvi Work\CareerCloud\obj\Debug\net8.0\CareerCloud.AssemblyInfo.cs
+D:\C# Assignments\Rutvi Work\CareerCloud\obj\Debug\net8.0\CareerCloud.csproj.CoreCompileInputs.cache

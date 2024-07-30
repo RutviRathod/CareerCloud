@@ -1,0 +1,34 @@
+D:\C# Assignments\CareerCloud\CareerCloud.Pocos\bin\Debug\net8.0\CareerCloud.Pocos.deps.json
+D:\C# Assignments\CareerCloud\CareerCloud.Pocos\bin\Debug\net8.0\CareerCloud.Pocos.dll
+D:\C# Assignments\CareerCloud\CareerCloud.Pocos\bin\Debug\net8.0\CareerCloud.Pocos.pdb
+D:\C# Assignments\CareerCloud\CareerCloud.Pocos\obj\Debug\net8.0\CareerCloud.Pocos.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Assignments\CareerCloud\CareerCloud.Pocos\obj\Debug\net8.0\CareerCloud.Pocos.AssemblyInfoInputs.cache
+D:\C# Assignments\CareerCloud\CareerCloud.Pocos\obj\Debug\net8.0\CareerCloud.Pocos.AssemblyInfo.cs
+D:\C# Assignments\CareerCloud\CareerCloud.Pocos\obj\Debug\net8.0\CareerCloud.Pocos.csproj.CoreCompileInputs.cache
+D:\C# Assignments\CareerCloud\CareerCloud.Pocos\obj\Debug\net8.0\CareerCloud.Pocos.dll
+D:\C# Assignments\CareerCloud\CareerCloud.Pocos\obj\Debug\net8.0\refint\CareerCloud.Pocos.dll
+D:\C# Assignments\CareerCloud\CareerCloud.Pocos\obj\Debug\net8.0\CareerCloud.Pocos.pdb
+D:\C# Assignments\CareerCloud\CareerCloud.Pocos\obj\Debug\net8.0\ref\CareerCloud.Pocos.dll
+D:\C# Assignments\Rutvi Work\CareerCloud\CareerCloud.Pocos\bin\Debug\net8.0\CareerCloud.Pocos.deps.json
+D:\C# Assignments\Rutvi Work\CareerCloud\CareerCloud.Pocos\bin\Debug\net8.0\CareerCloud.Pocos.dll
+D:\C# Assignments\Rutvi Work\CareerCloud\CareerCloud.Pocos\bin\Debug\net8.0\CareerCloud.Pocos.pdb
+D:\C# Assignments\Rutvi Work\CareerCloud\CareerCloud.Pocos\obj\Debug\net8.0\CareerCloud.Pocos.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Assignments\Rutvi Work\CareerCloud\CareerCloud.Pocos\obj\Debug\net8.0\CareerCloud.Pocos.AssemblyInfoInputs.cache
+D:\C# Assignments\Rutvi Work\CareerCloud\CareerCloud.Pocos\obj\Debug\net8.0\CareerCloud.Pocos.AssemblyInfo.cs
+D:\C# Assignments\Rutvi Work\CareerCloud\CareerCloud.Pocos\obj\Debug\net8.0\CareerCloud.Pocos.csproj.CoreCompileInputs.cache
+D:\C# Assignments\Rutvi Work\CareerCloud\CareerCloud.Pocos\obj\Debug\net8.0\CareerCloud.Pocos.dll
+D:\C# Assignments\Rutvi Work\CareerCloud\CareerCloud.Pocos\obj\Debug\net8.0\refint\CareerCloud.Pocos.dll
+D:\C# Assignments\Rutvi Work\CareerCloud\CareerCloud.Pocos\obj\Debug\net8.0\CareerCloud.Pocos.pdb
+D:\C# Assignments\Rutvi Work\CareerCloud\CareerCloud.Pocos\obj\Debug\net8.0\ref\CareerCloud.Pocos.dll
+C:\Users\rutvi\Downloads\NET.22-3-Rutvi-Rathod-N01678041\CareerCloud\CareerCloud.Pocos\bin\Debug\net8.0\CareerCloud.Pocos.deps.json
+C:\Users\rutvi\Downloads\NET.22-3-Rutvi-Rathod-N01678041\CareerCloud\CareerCloud.Pocos\bin\Debug\net8.0\CareerCloud.Pocos.dll
+C:\Users\rutvi\Downloads\NET.22-3-Rutvi-Rathod-N01678041\CareerCloud\CareerCloud.Pocos\bin\Debug\net8.0\CareerCloud.Pocos.pdb
+C:\Users\rutvi\Downloads\NET.22-3-Rutvi-Rathod-N01678041\CareerCloud\CareerCloud.Pocos\obj\Debug\net8.0\CareerCloud.Pocos.csproj.AssemblyReference.cache
+C:\Users\rutvi\Downloads\NET.22-3-Rutvi-Rathod-N01678041\CareerCloud\CareerCloud.Pocos\obj\Debug\net8.0\CareerCloud.Pocos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rutvi\Downloads\NET.22-3-Rutvi-Rathod-N01678041\CareerCloud\CareerCloud.Pocos\obj\Debug\net8.0\CareerCloud.Pocos.AssemblyInfoInputs.cache
+C:\Users\rutvi\Downloads\NET.22-3-Rutvi-Rathod-N01678041\CareerCloud\CareerCloud.Pocos\obj\Debug\net8.0\CareerCloud.Pocos.AssemblyInfo.cs
+C:\Users\rutvi\Downloads\NET.22-3-Rutvi-Rathod-N01678041\CareerCloud\CareerCloud.Pocos\obj\Debug\net8.0\CareerCloud.Pocos.csproj.CoreCompileInputs.cache
+C:\Users\rutvi\Downloads\NET.22-3-Rutvi-Rathod-N01678041\CareerCloud\CareerCloud.Pocos\obj\Debug\net8.0\CareerCloud.Pocos.dll
+C:\Users\rutvi\Downloads\NET.22-3-Rutvi-Rathod-N01678041\CareerCloud\CareerCloud.Pocos\obj\Debug\net8.0\refint\CareerCloud.Pocos.dll
+C:\Users\rutvi\Downloads\NET.22-3-Rutvi-Rathod-N01678041\CareerCloud\CareerCloud.Pocos\obj\Debug\net8.0\CareerCloud.Pocos.pdb
+C:\Users\rutvi\Downloads\NET.22-3-Rutvi-Rathod-N01678041\CareerCloud\CareerCloud.Pocos\obj\Debug\net8.0\ref\CareerCloud.Pocos.dll

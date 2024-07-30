@@ -1,0 +1,176 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Humber Lectures\\Distributed Application Development\\Assignment5\\CareerCloud5.1\\CareerCloud\\CareerCloudCore.UnitTests.Assignment1\\CareerCloudCore.UnitTests.Assignment1.csproj": {}
+  },
+  "projects": {
+    "D:\\Humber Lectures\\Distributed Application Development\\Assignment5\\CareerCloud5.1\\CareerCloud\\CareerCloud.Pocos\\CareerCloud.Pocos.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Humber Lectures\\Distributed Application Development\\Assignment5\\CareerCloud5.1\\CareerCloud\\CareerCloud.Pocos\\CareerCloud.Pocos.csproj",
+        "projectName": "CareerCloud.Pocos",
+        "projectPath": "D:\\Humber Lectures\\Distributed Application Development\\Assignment5\\CareerCloud5.1\\CareerCloud\\CareerCloud.Pocos\\CareerCloud.Pocos.csproj",
+        "packagesPath": "C:\\Users\\rutvi\\.nuget\\packages\\",
+        "outputPath": "D:\\Humber Lectures\\Distributed Application Development\\Assignment5\\CareerCloud5.1\\CareerCloud\\CareerCloud.Pocos\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\rutvi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.Data.SqlClient": {
+              "target": "Package",
+              "version": "[5.1.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.26, 6.0.26]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.26, 6.0.26]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[6.0.26, 6.0.26]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Humber Lectures\\Distributed Application Development\\Assignment5\\CareerCloud5.1\\CareerCloud\\CareerCloudCore.UnitTests.Assignment1\\CareerCloudCore.UnitTests.Assignment1.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Humber Lectures\\Distributed Application Development\\Assignment5\\CareerCloud5.1\\CareerCloud\\CareerCloudCore.UnitTests.Assignment1\\CareerCloudCore.UnitTests.Assignment1.csproj",
+        "projectName": "CareerCloudCore.UnitTests.Assignment1",
+        "projectPath": "D:\\Humber Lectures\\Distributed Application Development\\Assignment5\\CareerCloud5.1\\CareerCloud\\CareerCloudCore.UnitTests.Assignment1\\CareerCloudCore.UnitTests.Assignment1.csproj",
+        "packagesPath": "C:\\Users\\rutvi\\.nuget\\packages\\",
+        "outputPath": "D:\\Humber Lectures\\Distributed Application Development\\Assignment5\\CareerCloud5.1\\CareerCloud\\CareerCloudCore.UnitTests.Assignment1\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\rutvi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\Humber Lectures\\Distributed Application Development\\Assignment5\\CareerCloud5.1\\CareerCloud\\CareerCloud.Pocos\\CareerCloud.Pocos.csproj": {
+                "projectPath": "D:\\Humber Lectures\\Distributed Application Development\\Assignment5\\CareerCloud5.1\\CareerCloud\\CareerCloud.Pocos\\CareerCloud.Pocos.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "MSTest.TestAdapter": {
+              "target": "Package",
+              "version": "[3.2.2, )"
+            },
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[3.2.2, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.9.0, )"
+            },
+            "coverlet.collector": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.26, 6.0.26]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.26, 6.0.26]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[6.0.26, 6.0.26]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
